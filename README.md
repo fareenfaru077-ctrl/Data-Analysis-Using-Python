@@ -1,6 +1,6 @@
-# 📊 Sales Data Analysis using Python
+#  Sales Data Analysis using Python
 
-## 📌 Project Description
+##  Project Description
 
 This project analyzes a sales dataset using **Python, Pandas, and Matplotlib**.
 It performs data inspection, cleaning, analysis, and visualization to extract meaningful business insights such as:
@@ -13,7 +13,7 @@ It performs data inspection, cleaning, analysis, and visualization to extract me
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Python 3
 * Pandas
@@ -21,7 +21,7 @@ It performs data inspection, cleaning, analysis, and visualization to extract me
 
 ---
 
-## 📂 Dataset Required
+## Dataset Required
 
 The script expects a CSV file named:
 
@@ -39,7 +39,7 @@ If the dataset does not contain **Sales** or **Area** columns, the script automa
 
 ---
 
-## ⚙️ Features
+## Features
 
 ✔ Displays dataset preview
 ✔ Shows dataset info & statistics
@@ -53,7 +53,7 @@ If the dataset does not contain **Sales** or **Area** columns, the script automa
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Step 1 — Install dependencies
 
@@ -73,7 +73,7 @@ python filename.py
 
 ---
 
-## 📊 Output Generated
+## Output Generated
 
 The program prints:
 
@@ -85,12 +85,12 @@ The program prints:
 
 And displays:
 
-* 📊 Bar chart → Product Sales
-* 📈 Line chart → Monthly Sales Trend
+*  Bar chart → Product Sales
+*  Line chart → Monthly Sales Trend
 
 ---
 
-## 🧠 Logic Highlights
+## Logic Highlights
 
 * Uses `groupby()` for aggregation
 * Uses `datetime conversion` for monthly analysis
@@ -99,7 +99,7 @@ And displays:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible enhancements:
 
@@ -110,15 +110,11 @@ Possible enhancements:
 
 ---
 
-## ✅ Final Status
+##  Final Status
 
 ✔ Fully automated
 ✔ Error-handled
 ✔ Beginner friendly
 ✔ Production-safe logic
 
----
 
-**Author:** Your Name
-**Language:** Python
-**Difficulty Level:** Beginner → Intermediate
